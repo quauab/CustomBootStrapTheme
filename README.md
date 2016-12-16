@@ -7,7 +7,7 @@
 Download and install NodeJS
 Download and install Koala
 
-# Compiling SCSS file with Koala
+# Compiling SCSS files with Koala
 Step 1 - Launch Koala - Koala should be configured to auto-compile.
          If not, click the settings icon and configure.
          
