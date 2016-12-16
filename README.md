@@ -14,4 +14,7 @@ bower install bootstrap-sass --save
 
 # Optional module to run app on server
 npm install -g live-server
+
+# Run application
+live-server
 ```
