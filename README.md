@@ -1,5 +1,5 @@
 # Custom BootStrap Theme
-<h4>Using SASS
+<h4>Using SASS<h4>
 
 ## Build Setup
 
